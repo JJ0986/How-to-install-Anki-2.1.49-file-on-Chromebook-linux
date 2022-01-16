@@ -1,0 +1,5 @@
+sudo apt update && sudo apt upgrade
+sudo apt-get install anki
+sudo tar -xf anki-2.1.49-linux.tar.bz2
+cd anki-2.1.49-linux
+sudo ./install.sh
